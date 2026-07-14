@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-6ilkos.newsyourday.com/sitemap.xml
